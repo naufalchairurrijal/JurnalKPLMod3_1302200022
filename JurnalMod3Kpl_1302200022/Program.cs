@@ -14,3 +14,10 @@ Console.WriteLine(buah.Kode(KodeBuah.NamaBuah.Alpukat));
 
 Console.WriteLine(KodeBuah.NamaBuah.Pisang);
 Console.WriteLine(buah.Kode(KodeBuah.NamaBuah.Pisang));
+
+
+PosisiKarakterGame StatusKarakter = new PosisiKarakterGame();
+Console.WriteLine(StatusKarakter.currentState);
+
+StatusKarakter.activeTrigger(PosisiKarakterGame.Trigger.TombolW);
+StatusKarakter.activeTrigger(PosisiKarakterGame.Trigger.TombolS);
