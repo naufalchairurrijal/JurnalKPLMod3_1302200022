@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.AssemblyInfo.cs
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\bin\Debug\net6.0\JurnalMod3Kpl_1302200022.exe
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\bin\Debug\net6.0\JurnalMod3Kpl_1302200022.deps.json
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\bin\Debug\net6.0\JurnalMod3Kpl_1302200022.runtimeconfig.json
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\bin\Debug\net6.0\JurnalMod3Kpl_1302200022.dll
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\bin\Debug\net6.0\JurnalMod3Kpl_1302200022.pdb
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.dll
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\refint\JurnalMod3Kpl_1302200022.dll
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.pdb
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\JurnalMod3Kpl_1302200022.genruntimeconfig.cache
+C:\Users\HP\Documents\KPL\JurnalMod3Kpl_1302200022\JurnalMod3Kpl_1302200022\obj\Debug\net6.0\ref\JurnalMod3Kpl_1302200022.dll
